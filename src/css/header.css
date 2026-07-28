@@ -71,18 +71,4 @@
 
 .header-social-icon {
   display: block;
-  fill: currentColor;
 }
-
-/* Ще один варіант */
-/* .header-social-icon {
-  display: block;
-  fill: #1b414b;
-
-  transition: fill 250ms ease-in-out;
-}
-
-.header-social-link:hover .header-social-icon,
-.header-social-link:focus .header-social-icon {
-  fill: #062730;
-} */
